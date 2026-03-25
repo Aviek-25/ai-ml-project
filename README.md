@@ -4,7 +4,7 @@ Code Clause Internship Project 2
 This project uses the YOLOv5 deep learning framework for object detection and classification to develop a system for identifying animal species in real-world images. The project involves collecting and labeling image datasets, training the YOLOv5 model, and integrating the model with a user interface for ease of use.
 
 ## Dataset
-https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sharing
+(https://drive.google.com/drive/folders/1-3BERYbUEzQU195SgoeBVU4kOu96Q1x0)
 
 ## Preparing the Data
 
